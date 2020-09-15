@@ -1,3 +1,3 @@
-module github.com/chrisdoherty4/go-helloworld/v2
+module github.com/chrisdoherty4/go-helloworld/v3
 
 go 1.14
