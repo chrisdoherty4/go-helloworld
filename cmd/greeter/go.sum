@@ -1,3 +1,5 @@
 github.com/chrisdoherty4/go-helloworld v0.0.0-20200915164309-00409f187e60 h1:P/F2Elq1pujuL1MHmUtC+jW35bwHj9wZ13vST6WmXQI=
 github.com/chrisdoherty4/go-helloworld/v2 v2.0.0 h1:Pn9WWQ8dgF8ISp2jcEjGMRLJLWPtBdL0vaRa9GUu1u8=
 github.com/chrisdoherty4/go-helloworld/v2 v2.0.0/go.mod h1:H6MA+mXP+diOowpet8b6gemo1m1aRik+PbLMYQxk5w8=
+github.com/chrisdoherty4/go-helloworld/v3 v3.0.0 h1:OlZ7elSbu1FXK1pP7cJwFcwE1UmBoMw1KERhiXQt0Dw=
+github.com/chrisdoherty4/go-helloworld/v3 v3.0.0/go.mod h1:d37J2CvwPwiHzm2btA7Q68Hr/yjDbUVoxlej12lvTAM=
